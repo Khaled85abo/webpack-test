@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 1rem 1rem;
+}
+
+body {
+  background-color: rgb(194, 142, 97);
+}
+
+/*# sourceMappingURL=main.css.map */
